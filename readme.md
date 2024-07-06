@@ -59,4 +59,4 @@ All class sessions are recorded. Links will become active after each session is 
 - Session 05 recording
 
 ## Credits
-I owe a huge debt of gratitude to: Just van Rossum, who taught me how to write Python code; Andy Clymer; and [David Jonathan Ross](https://djr.com/)—all of whom have taught various versions of this course for Type@Cooper. The structure of our course this session closely matches DJR’s approach, and we’ll be using a lot of his and Just’s code.
+I owe a huge debt of gratitude to: [Just van Rossum](https://github.com/justvanrossum), who taught me how to write Python code; [Andy Clymer](https://www.linkedin.com/in/andyclymer/); and [David Jonathan Ross](https://djr.com/)—all of whom have taught various versions of this course for Type@Cooper. The structure of our course this session closely matches DJR’s approach, and we’ll be using a lot of his and Just’s code.
