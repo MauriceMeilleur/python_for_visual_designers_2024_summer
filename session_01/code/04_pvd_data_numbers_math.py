@@ -14,7 +14,7 @@ print(myInteger - myFloat)
 # multiply * and divide /
 print(myInteger * myFloat)
 print(myInteger/myFloat)
-# the result of a math operation is *always* a float
+# the result of a division operation is *always* a float
 
 # you can change the value of an existing number variable using +=, -=, *=, /=
 # these are examples of what are called 'recursive' operators
