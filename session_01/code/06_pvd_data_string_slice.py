@@ -28,6 +28,6 @@ ourNames = ourNames.split('\n')
 print(ourNames)
 print(ourNames[0])
 
-# shuffle is a Python random function that gets installed with DrawBot; it randomizes the order of sequence, like a list
+# shuffle is a Python random function that gets installed with DrawBot; it randomizes the order of a sequence, like a list
 shuffle(ourNames)
 print(ourNames)
