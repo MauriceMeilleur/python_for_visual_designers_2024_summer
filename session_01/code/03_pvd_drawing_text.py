@@ -5,7 +5,7 @@ print(installedFonts())
 print(len(installedFonts()))
 
 # let's set the font we're going to use for drawing text on the canvas choosing from the list
-# font() is a DrawBot function that needs at least one argument, the PostScript of a font as a string
+# font() is a DrawBot function that needs at least one argument, the PostScript name of a font as a string
 font('Times')
 # we'll set the size of the text set in that font in DrawBot units (= dtps, pixels) with the DrawBot function fontSize()
 fontSize(50)
