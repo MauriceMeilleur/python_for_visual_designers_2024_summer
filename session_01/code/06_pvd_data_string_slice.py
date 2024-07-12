@@ -21,7 +21,7 @@ print(ourNames)
 # but in memory it's just one long string; see what happens when we try to print what looks like the first element in our list
 print(ourNames[0])
 
-# so let's redfine ourNames slice the string into a Python list object; we'll use the method (only for strings) split()
+# so let's redfine ourNames into a Python list object; we'll use the method (only for strings) split()
 # we have to give split() an argument, namely on what we want the code to split the list—here we'll tell it to split the list at each hard return; the string '\n' is an expression for the invisible character 'new line'
 ourNames = ourNames.split('\n')
 # now print ourNames again; now it's a list of strings, one for each name
