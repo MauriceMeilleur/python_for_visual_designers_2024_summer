@@ -35,7 +35,7 @@ Class sessions are 18.30–20.30 [US Eastern](https://www.timeanddate.com/worldc
 ## Code
 A record of the scripts that we write together in class. Links will become active after each session is concluded.
 
-- Session 01 code
+- [Session 01 code](session_01/code)
 - Session 02 code
 - Session 03 code
 - Session 04 code
@@ -44,7 +44,7 @@ A record of the scripts that we write together in class. Links will become activ
 ## Challenges
 Our version of homework: solve problems and practice skills we cover in class. Skip ahead, or riff on these to make and solve your own problems. Possible solutions are available if you want to peek. Post what you make in #show_and_tell on Slack.
 
-- Session 01 challenges
+- [Session 01 challenges](session_01/challenges)
 - Session 02 challenges
 - Session 03 challenges
 - Session 04 challenges
@@ -52,7 +52,9 @@ Our version of homework: solve problems and practice skills we cover in class. S
 ## Recordings
 All class sessions are recorded. Links will become active after each session is concluded. Please don’t share these videos with anyone outside of our class.
 
-- Session 01 recording
+- [Session 01 recording pt 1](https://cooper.zoom.us/rec/share/O7_mT2aADXD8XIkV7j-4sP4eP-kf_XiSpyoEzTmEz9Zn2fuzj9Tbbixc0sA8wt4F.bJD_Sd_icgwxhQwo)
+- [Session 01 recording pt 2](https://cooper.zoom.us/rec/share/BWZQtumKCbK2JpFz1j7UxUzvxFNQprLBZ_eJ2KZRWio9nMQoV75jieOiihDpisU.hWZZqQ0AeDLFUZeH)
+  (Note: session 01 recordings were made/posted by Type@Cooper and will remain available until 30 Spetember 2024)
 - Session 02 recording
 - Session 03 recording
 - Session 04 recording
