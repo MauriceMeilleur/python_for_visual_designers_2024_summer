@@ -54,7 +54,7 @@ All class sessions are recorded. Links will become active after each session is 
 
 - [Session 01 recording pt 1](https://cooper.zoom.us/rec/share/O7_mT2aADXD8XIkV7j-4sP4eP-kf_XiSpyoEzTmEz9Zn2fuzj9Tbbixc0sA8wt4F.bJD_Sd_icgwxhQwo)
 - [Session 01 recording pt 2](https://cooper.zoom.us/rec/share/BWZQtumKCbK2JpFz1j7UxUzvxFNQprLBZ_eJ2KZRWio9nMQoV75jieOiihDpisU.hWZZqQ0AeDLFUZeH)
-  (Note: session 01 recordings were made/posted by Type@Cooper and will remain available until 30 Spetember 2024)
+  (Note: session 01 recordings were made/posted by Type@Cooper and will remain available until 30 September 2024)
 - Session 02 recording
 - Session 03 recording
 - Session 04 recording
