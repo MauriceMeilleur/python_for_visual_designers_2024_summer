@@ -36,7 +36,7 @@ Class sessions are 18.30–20.30 [US Eastern](https://www.timeanddate.com/worldc
 A record of the scripts that we write together in class. Links will become active after each session is concluded.
 
 - [Session 01 code](session_01/code)
-- Session 02 code
+- [Session 02 code](session_02/code)
 - Session 03 code
 - Session 04 code
 - Session 05 code
