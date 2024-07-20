@@ -18,6 +18,3 @@ def fill255(color):
 newPage()
 fill255((128, 64, 128, 255))
 rect(0, 0, width(), height())
-
-# def fillHex(color):
-    # this function will convert a hex color to RGBalpha for DrawBot; it takes as an argument a string of 2, 4, 6, or 8
