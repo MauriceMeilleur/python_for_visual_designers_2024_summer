@@ -22,7 +22,7 @@ newPage(*myImage.size())            # make a new page
 image(myImage, (0, 0))              # draw the image
 ```
 
-[Custom filter](customFilterFunction.jpg)
+![Custom filter](custom_filter_function.jpg)
 
 ## Ring of shapes
 
@@ -31,7 +31,7 @@ make a function to represent your shape
 make a function to represent a ring of shapes
 then draw your document and make a loop of shape rings
 
-[ring of shapes](ringOfShapes.png)
+![ring of shapes](ring_of_shapes.png)
 
 ## Bonus challenge for text: wedge shadow
 
@@ -43,4 +43,4 @@ Replicate the following instructions in code to make a wedge shadow; note that y
 * scale gray vertically 90% and backslant it 10 degrees
 * place the black on gray by registering it at the baseline
 
-[wedgeShade](wedgeShade.png)
+![Wedge shadow](wedge_shadow.png)
