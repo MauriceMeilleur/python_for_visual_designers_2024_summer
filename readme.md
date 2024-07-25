@@ -37,7 +37,7 @@ A record of the scripts that we write together in class. Links will become activ
 
 - [Session 01 code](session_01/code)
 - [Session 02 code](session_02/code)
-- Session 03 code
+- [Session 03 code](session_03/code)
 - Session 04 code
 - Session 05 code
 
@@ -46,7 +46,7 @@ Our version of homework: solve problems and practice skills we cover in class. S
 
 - [Session 01 challenges](session_01/challenges)
 - [Session 02 challenges](session_02/challenges)
-- Session 03 challenges
+- [Session 03 challenges](session_03/challenges)
 - Session 04 challenges
 
 ## Recordings
@@ -56,7 +56,7 @@ All class sessions are recorded. Links will become active after each session is 
 - [Session 01 recording pt 2](https://cooper.zoom.us/rec/share/BWZQtumKCbK2JpFz1j7UxUzvxFNQprLBZ_eJ2KZRWio9nMQoV75jieOiihDpisU.hWZZqQ0AeDLFUZeH)
   (Note: session 01 recordings were made/posted by Type@Cooper and will remain available until 30 September 2024)
 - [Session 02 recording](https://drive.google.com/file/d/18sTpb0Aj0yGFHoysZkXKNAJC4ZKo9EPq/view?usp=sharing)
-- Session 03 recording
+- [Session 03 recording](https://drive.google.com/file/d/1dD7jFj9uC1AaPc7AIO0fvn5W1a8GGMvx/view?usp=sharing)
 - Session 04 recording
 - Session 05 recording
 
