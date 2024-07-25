@@ -6,9 +6,11 @@ Find a plaid/argyle/polka dot/whatever pattern in your sweater drawer, in your h
 
 Try to find where the pattern repeats and only draw a single instance of the repeating pattern. Then use a grid loop so you don’t have to do more manual drawing than you have to. Bonus points for defining that repeating pattern as a function that you define, and then making a grid that simply calls the function.
 
-[Plaid](pattern-example-plaid.png)
+![Plaid](pattern_example_plaid.png)
 
-[Argyle](pattern-example-argyle.png)
+![Argyle](pattern_example_argyle.png)
+
+![Polkadot](pattern_example_polkadot.png)
 
 ## Custom image filter
 
