@@ -38,7 +38,7 @@ A record of the scripts that we write together in class. Links will become activ
 - [Session 01 code](session_01/code)
 - [Session 02 code](session_02/code)
 - [Session 03 code](session_03/code)
-- Session 04 code
+- [Session 04 code](session_04/code)
 - Session 05 code
 
 ## Challenges
