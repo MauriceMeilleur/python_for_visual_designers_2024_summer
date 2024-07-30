@@ -29,8 +29,8 @@ Class sessions are 18.30–20.30 [US Eastern](https://www.timeanddate.com/worldc
 - Session 01 / 10 July / Loops and shapes
 - Session 02 / 17 July	/ Objects and canvas
 - Session 03 / 24 July	/ Text and image
-- Session 04 / 31 July	/ Curves and formatted strings
-- Session 05 / 7 August	/ Animation
+- Session 04 / 31 July	/ Paths and formatted strings
+- Session 05 / 7 August	/ Curves and animation
 
 ## Code
 A record of the scripts that we write together in class. Links will become active after each session is concluded.
