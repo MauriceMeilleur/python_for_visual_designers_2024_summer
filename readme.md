@@ -57,7 +57,7 @@ All class sessions are recorded. Links will become active after each session is 
   (Note: session 01 recordings were made/posted by Type@Cooper and will remain available until 30 September 2024)
 - [Session 02 recording](https://drive.google.com/file/d/18sTpb0Aj0yGFHoysZkXKNAJC4ZKo9EPq/view?usp=sharing)
 - [Session 03 recording](https://drive.google.com/file/d/1dD7jFj9uC1AaPc7AIO0fvn5W1a8GGMvx/view?usp=sharing)
-- Session 04 recording
+- [Session 04 recording](https://drive.google.com/file/d/18sTpb0Aj0yGFHoysZkXKNAJC4ZKo9EPq/view?usp=sharing)
 - Session 05 recording
 
 ## Credits
