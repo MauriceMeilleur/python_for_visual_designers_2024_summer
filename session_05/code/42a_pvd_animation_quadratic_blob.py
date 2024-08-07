@@ -11,8 +11,6 @@ print(randomPhases)
 # and a radius for their motion
 rad = 50
 
-# you can also give it an arbitary list of off-curve points and a final argument, None, which will tell it to interpolate *all* the on-curve points
-
 for n in range(nFrames):
     newPage()
     frameDuration(1/fps)
