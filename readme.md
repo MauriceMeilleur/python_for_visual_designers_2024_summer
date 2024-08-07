@@ -39,7 +39,7 @@ A record of the scripts that we write together in class. Links will become activ
 - [Session 02 code](session_02/code)
 - [Session 03 code](session_03/code)
 - [Session 04 code](session_04/code)
-- Session 05 code
+- [Session 05 code[(session_05/code)
 
 ## Challenges
 Our version of homework: solve problems and practice skills we cover in class. Skip ahead, or riff on these to make and solve your own problems. Possible solutions are available if you want to peek. Post what you make in #show_and_tell on Slack.
