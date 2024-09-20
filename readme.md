@@ -39,7 +39,7 @@ A record of the scripts that we write together in class. Links will become activ
 - [Session 02 code](session_02/code)
 - [Session 03 code](session_03/code)
 - [Session 04 code](session_04/code)
-- [Session 05 code[(session_05/code)
+- [Session 05 code](session_05/code)
 
 ## Challenges
 Our version of homework: solve problems and practice skills we cover in class. Skip ahead, or riff on these to make and solve your own problems. Possible solutions are available if you want to peek. Post what you make in #show_and_tell on Slack.
@@ -58,7 +58,7 @@ All class sessions are recorded. Links will become active after each session is 
 - [Session 02 recording](https://drive.google.com/file/d/18sTpb0Aj0yGFHoysZkXKNAJC4ZKo9EPq/view?usp=sharing)
 - [Session 03 recording](https://drive.google.com/file/d/1dD7jFj9uC1AaPc7AIO0fvn5W1a8GGMvx/view?usp=sharing)
 - [Session 04 recording](https://drive.google.com/file/d/1_LmdYhydrCE2y91zGK-QsaqI8v57mIOL/view?usp=sharing)
-- [Session 05 recording[(https://drive.google.com/file/d/1wvWE_WMcjISYfJ7xfM1Z0MHv1iVMxEad/view?usp=sharing)
+- [Session 05 recording](https://drive.google.com/file/d/1wvWE_WMcjISYfJ7xfM1Z0MHv1iVMxEad/view?usp=sharing)
 
 ## Credits
 I owe a huge debt of gratitude to: [Just van Rossum](https://github.com/justvanrossum), who taught me how to write Python code; [Andy Clymer](https://www.linkedin.com/in/andyclymer/); and [David Jonathan Ross](https://djr.com/)—all of whom have taught various versions of this course for Type@Cooper. The structure of our course this session closely matches DJR’s approach, and we’ll be using a lot of his and Just’s code.
